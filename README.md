@@ -1,1 +1,5 @@
-Christ The King
+My first readme
+
+My first readme
+cd root
+
