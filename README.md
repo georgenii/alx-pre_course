@@ -1,5 +1,4 @@
 My first readme
 
-My first readme
-cd root
-
+README update from github.com
+
